@@ -1,3 +1,3 @@
 # Hyperparameter-optimizations
 
-1st Upload of Genetic Algorithm for Hyperparameter Tuning
+1st Upload: Genetic Algorithm for Hyperparameter Tuning
